@@ -1,12 +1,6 @@
 ### My Stats:
-<picture>
-  <source
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quichochodd&theme=dark&background=000000)](https://git.io/streak-stats)
-  />
-  <source
-    ![quichochodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=quichochodd&theme=gotham&show_icons=true&rank_icon=github)
-  />
-  <source
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
-  />
-</picutre>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quichochodd&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![quichochodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=quichochodd&theme=gotham&show_icons=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
