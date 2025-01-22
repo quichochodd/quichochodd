@@ -1,9 +1,6 @@
 # <a href="https://www.linkedin.com/in/quichochodavid/">David Quichocho</a>'s Project Portfolio
-<picture>
-  <a href="https://github.com/quichochodd/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=gotham&show_icon=true&rank_icon=github" />
-  </a>
-</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact&theme=gotham)
 
 ## ⚠️ Vulnerability Management Projects
 
