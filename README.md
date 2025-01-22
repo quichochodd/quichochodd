@@ -7,7 +7,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/quichochodd/vulnerability-management-program)**
 
 ## 🤳 Connect With Me
 
