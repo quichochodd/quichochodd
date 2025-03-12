@@ -1,10 +1,16 @@
 # <a href="https://www.linkedin.com/in/quichochodavid/">David Quichocho</a>'s Project Portfolio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quichochodd\&layout=compact&theme=gotham)
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/quichochodd/vulnerability-management-program)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quichochodd\&layout=compact&theme=gotham)
 
 ## 🤳 Connect With Me
 
